@@ -1,0 +1,8 @@
+C:\Users\Devon\source\repos\structs\structs\obj\Debug\structs.csproj.AssemblyReference.cache
+C:\Users\Devon\source\repos\structs\structs\obj\Debug\structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Devon\source\repos\structs\structs\obj\Debug\structs.csproj.CoreCompileInputs.cache
+C:\Users\Devon\source\repos\structs\structs\bin\Debug\structs.exe.config
+C:\Users\Devon\source\repos\structs\structs\bin\Debug\structs.exe
+C:\Users\Devon\source\repos\structs\structs\bin\Debug\structs.pdb
+C:\Users\Devon\source\repos\structs\structs\obj\Debug\structs.exe
+C:\Users\Devon\source\repos\structs\structs\obj\Debug\structs.pdb
